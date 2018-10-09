@@ -1,0 +1,14 @@
+# Folder view configuration files
+.DS_Store
+
+# Thumbnail cache files
+._*
+
+# Files that might appear on external disks
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Python cache
+__pycache__/
